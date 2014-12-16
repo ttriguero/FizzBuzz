@@ -1,0 +1,7 @@
+C:\Source\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.dll
+C:\Source\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Tests.pdb
+C:\Source\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Components.dll
+C:\Source\FizzBuzz\FizzBuzz.Tests\bin\Debug\FizzBuzz.Components.pdb
+C:\Source\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.csprojResolveAssemblyReference.cache
+C:\Source\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.dll
+C:\Source\FizzBuzz\FizzBuzz.Tests\obj\Debug\FizzBuzz.Tests.pdb
